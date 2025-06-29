@@ -12,8 +12,8 @@
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 # 💻 Contribution 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SHEMA-IRADUKUNDA-Daniel&theme=github_dark&hide_border=true" height="150" alt="stats graph"  />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SHEMA-IRADUKUNDA-Daniel&theme=github-dark-blue&hide_border=true" height="150" alt="streak stats"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=SHEMA-IRADUKUNDA-Daniel&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&disable_animations=false&theme=github_dark&locale=en&hide_border=true" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=SHEMA-IRADUKUNDA-Daniel&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=github_dark&hide_border=true&exclude_repo=SHEMA-IRADUKUNDA-Daniel" height="150" alt="languages graph"  />
 </div>
 <!--
 **SHEMA-IRADUKUNDA-Daniel/shema-iradukunda-daniel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
