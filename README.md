@@ -10,7 +10,8 @@
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-F24E1E?style=for-the-badge&logo=next.js&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+
 # 💻 Contribution 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=SHEMA-IRADUKUNDA-Daniel&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&disable_animations=false&theme=github_dark&locale=en&hide_border=true" height="150" alt="stats graph"  />
