@@ -1,6 +1,6 @@
 👋 Hi, I'm SHEMA IRADUKUNDA Daniel!
 # 
-👨🏾‍💻 I am a Software Engineer, UI/UX designer, and Graphic Designer specializing in frontend development. I have expertise in React, TypeScript, JavaScript, and Figma. My passion lies in creating seamless, intuitive user experiences that drive value. I focus on understanding client needs and translating them into effective solutions. Committed to continuous learning and improvement, I strive to stay updated with industry trends.
+👨🏾‍💻 I am a Software Engineer, UI/UX designer, and Graphic Designer specializing in frontend development. I have expertise in React.js, Next.js , TypeScript, JavaScript, and Figma. My passion lies in creating seamless, intuitive user experiences that drive value. I focus on understanding client needs and translating them into effective solutions. Committed to continuous learning and improvement, I strive to stay updated with industry trends.
 #
 
 # Tech Stack
